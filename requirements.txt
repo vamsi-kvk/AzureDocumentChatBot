@@ -1,0 +1,11 @@
+streamlit
+PIL
+base64
+openai
+os
+requests
+dotenv
+requests
+bs4
+azure-storage-blob
+json
